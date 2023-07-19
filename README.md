@@ -1,3 +1,8 @@
+
+# Project Title
+
+A brief description of what this project does and who it's for
+
 ## ABOUT THE DATASET
 
 The Sales data contains the Transaction ID, Date, Branch, Pizza, Unit Price, Quantity, and Sales Discount.
@@ -35,7 +40,7 @@ I created new measures to calculate the Total Gross Revenue, Total Discounted Pr
 I filtered unit price to check for the total number of orders per price.  
 After which I loaded the sales data into the power bi desktop.
 
-![domino's pizza](https://github.com/omoniyidamilola/Domino-dashboard/blob/main/DOMINOS%20PIZZA.jpg)
+![Dominos's Pizza Dashboard](https://github.com/omoniyidamilola/Domino-dashboard/blob/main/Pizza%20Dashboard.jpg)
 
 ## DOMINO’S PIZZA 2018-2020 SALES DASHBOARD
 
@@ -76,3 +81,6 @@ The company should increase the production of margarita and beef suya during tho
 The company should also consider expanding their menu to include holiday-themed items.
 Additionally, extending the hours of operation during the holiday season to accommodate the increase in customer traffic.
 
+link to the interactive dashboard.
+
+https://app.powerbi.com/MobileRedirect.html?action=OpenReport&reportObjectId=e3ec8f75-f465-4838-88f2-e1ef98cf69f0&bookmarkGuid=e5f2421a-d86c-41dd-964b-7a6c36c3f344&ctid=dbd924d4-aeaf-4779-8534-75838d554b10&reportPage=ReportSection55b7db94101a3541df30&Context=share-report&groupObjectId=9f71d25f-d247-4271-b01f-4de1aca8e977&pbi_source=mobile_ios
